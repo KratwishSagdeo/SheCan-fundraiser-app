@@ -50,7 +50,7 @@ Welcome to the **SheCan Fundraiser App** — a beautifully designed Flutter mobi
 ![Qr code](https://github.com/KratwishSagdeo/SheCan-fundraiser-app/blob/main/Screenshot%202025-08-03%20200924.png)
 
 ## 🎥 Demo Video
-> 
+> ![Video](https://github.com/KratwishSagdeo/SheCan-fundraiser-app/blob/main/app%20using.mp4)
 
 ---
 
