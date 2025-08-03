@@ -51,7 +51,7 @@ Welcome to the **SheCan Fundraiser App** — a beautifully designed Flutter mobi
 
 ## 🎥 Demo Video
 > ![Video](https://github.com/KratwishSagdeo/SheCan-fundraiser-app/blob/main/app%20using.mp4)
-> ![apk](https://drive.google.com/drive/folders/15dPfnWYnCj1oGHC8zdZYhPObzF8D5aVz?usp=drive_link)
+> ![apk](https://drive.google.com/file/d/1lszU8hwNTmutNbYax3ywYSD7Dj-x5F5I/view?usp=drive_link)
 
 ---
 
